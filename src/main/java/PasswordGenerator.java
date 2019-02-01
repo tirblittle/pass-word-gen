@@ -8,6 +8,6 @@ public class PasswordGenerator {
     }
 
     public void createRandomPassword() {
-
+        //TODO : finish this method
     }
 }
